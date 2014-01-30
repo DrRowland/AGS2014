@@ -4,7 +4,7 @@ AGS2014
 
 Advanced Games Studies 2014
 
-And notes and handouts will be stored in this repository.
+Any notes and handouts will be stored in this repository.
 There are no 'lecture slides' for this part of the module.
 
 Link to Scrum in 10mins Video:<a href="http://www.youtube.com/watch?v=XU0llRltyFM"> here </a>
